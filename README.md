@@ -1,8 +1,8 @@
 # Pdfcrowd API Examples
 
-This repository contains complete working examples of [Pdfcrowd API](https://pdfcrowd.com/doc/api/) server-side integrations. The examples show how to create PDF from dynamic and static HTML in various environments.
+This repository contains complete working examples of [Pdfcrowd API](https://pdfcrowd.com/doc/api/) integrations. The examples show how to create PDF from dynamic and static HTML in various environments.
 
-## Server Side API Examples
+### Server Side API Examples
 
 - PHP
   - [Native PHP](../../tree/master/php/php)
@@ -18,24 +18,24 @@ This repository contains complete working examples of [Pdfcrowd API](https://pdf
 - .NET
   - [ASP.NET Web Forms](../../tree/master/dotnet/asp-net-web-forms)
   
-## Using API in Browser
+### Using API in Browser
 
 - Ajax
   - [Asynchronous JavaScript in Browser](../../tree/master/ajax)
 
-## Helper Utilities
+### Helper Utilities
 
 You can find useful scripts (e.g. batch HTML to PDF conversion) in the [tools](../../tree/master/tools) folder.
 
-## Documentation
+### Documentation
 
 API Home:  <https://pdfcrowd.com/doc/api/>
 
-## License
+### License
 
 The code in this repository is licensed under the MIT License.
 
-## Contributions
+### Contributions
 
 Contributions are welcome. Feel free to submit a pull request or contact us at support@pdfcrowd.com.
 
