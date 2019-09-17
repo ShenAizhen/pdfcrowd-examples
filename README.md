@@ -1,8 +1,8 @@
 # Pdfcrowd API Examples
 
-## Server Side API Integration Examples
+This repository contains complete working examples of [Pdfcrowd API](https://pdfcrowd.com/doc/api/) server-side integrations. The examples show how to create PDF from dynamic and static HTML in various environments.
 
-This repository contains complete working examples of [Pdfcrowd API](https://pdfcrowd.com/doc/api/) server-side integrations. The examples show how to create PDF from dynamic and static HTML in various web server environments.
+## Server Side API Examples
 
 - PHP
   - [Native PHP](../../tree/master/php/php)
@@ -17,6 +17,9 @@ This repository contains complete working examples of [Pdfcrowd API](https://pdf
   - [Ruby on Rails](../../tree/master/ruby/rails)
 - .NET
   - [ASP.NET Web Forms](../../tree/master/dotnet/asp-net-web-forms)
+  
+## Using API in Browser
+
 - Ajax
   - [Asynchronous JavaScript in Browser](../../tree/master/ajax)
 
